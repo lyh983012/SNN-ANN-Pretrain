@@ -130,3 +130,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+.DS_Store
+Exp1-ImageNet/.DS_Store
+Exp2-DVS-CIFAR10/.DS_Store
+Exp3-DVSUCF101/.DS_Store
+Exp3-DVSUCF101/video-classification-SNN/.DS_Store
