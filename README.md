@@ -2,6 +2,8 @@
 
 official pytorch implements for the experiments of paper "Rethinking Pretraining as a Bridge from ANNs to SNNs"
 
+checkpoints download: [google driver](https://drive.google.com/drive/folders/1w-MrZ4sRuUeM5l07yaO6b2G_RmIZsJtm?usp=share_link)
+
 ## Latest News
 
 Th paper has been accepted by **IEEE Transactions on Neural Networks and Learning Systems**
@@ -27,11 +29,12 @@ Th paper has been accepted by **IEEE Transactions on Neural Networks and Learnin
 ## Citation
 If you find this code useful in your research, please consider citing and here is an example BibTeX entry:
 
-```
+```bibtex
 @article{lin2022rethinking,
-  title={Rethinking Pretraining as a Bridge from ANNs to SNNs},
-  author={Lin, Yihan and Hu, Yifan and Ma, Shiji and Li, Guoqo and Yu, Dongjie},
-  journal={arXiv preprint arXiv:2203.01158},
-  year={2022}
+  title={Rethinking pretraining as a bridge from anns to snns},
+  author={Lin, Yihan and Hu, Yifan and Ma, Shijie and Yu, Dongjie and Li, Guoqi},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  publisher={IEEE}
 }
 ```
